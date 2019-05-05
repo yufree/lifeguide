@@ -1,28 +1,29 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  13 MAR 2019 11:28
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.11.28)  5 MAY 2019 11:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **lifeguide.tex
 (./lifeguide.tex
-LaTeX2e <2018-04-01> patch level 2
-Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
-(/usr/local/texlive/2018/texmf-dist/tex/latex/tufte-latex/tufte-book.cls
+LaTeX2e <2018-04-01> patch level 5
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/tufte-latex/tufte-book.cls
 Document Class: tufte-book 2015/06/21 v3.5.2 Tufte-book class
-(/usr/local/texlive/2018/texmf-dist/tex/latex/tufte-latex/tufte-common.def
+
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/tufte-latex/tufte-common.de
+f
 File: tufte-common.def 2015/06/21 v3.5.2 Common code for the Tufte-LaTeX styles
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-(/usr/local/texlive/2018/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local
-/texlive/2018/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/Use
+rs/yufree/Library/TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks14
 \XKV@tempa@toks=\toks15
-(/usr/local/texlive/2018/texmf-dist/tex/generic/xkeyval/keyval.tex))
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/generic/xkeyval/keyval.tex))
 \XKV@depth=\count80
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (/usr/local/texlive/2018/texmf-dist/tex/latex/xifthen/xifthen.sty
+)) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/xifthen/xifthen.sty
 Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
-(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count81
 \calc@Bcount=\count82
@@ -34,49 +35,31 @@ LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count83
 \calc@Cskip=\skip43
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
-Package: ifmtarg 2009/09/02 v1.2a check for an empty argument
-)) (/usr/local/texlive/2018/texmf-dist/tex/latex/hardwrap/hardwrap.sty
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+)) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/hardwrap/hardwrap.sty
 Package: hardwrap 2011/02/12 v0.2 Hard wrap messages
-(/usr/local/texlive/2018/texmf-dist/tex/latex/ifplatform/ifplatform.sty
-Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
-(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/shellesc.sty
-Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
-Package shellesc Info: Restricted shell escape enabled on input line 69.
-) (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-) (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-) (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-) (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
-) (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/catchfile.sty
-Package: catchfile 2016/05/16 v1.7 Catch the contents of a file (HO)
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-))
-
-Package ifplatform Warning: 
-    shell escape is disabled, so I can only detect \ifwindows.
-
-) (/usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \hw@charcount=\count84
@@ -84,9 +67,9 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \hw@maxprintline=\count86
 )
 Class tufte-book Info: Loading the base class `book'
-(/usr/local/texlive/2018/texmf-dist/tex/latex/base/book.cls
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2018/texmf-dist/tex/latex/base/bk10.clo
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/base/bk10.clo
 File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count87
@@ -101,26 +84,25 @@ File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip44
 \belowcaptionskip=\skip45
 \bibindent=\dimen104
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/xltxtra/xltxtra.sty
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/xltxtra/xltxtra.sty
 Package: xltxtra 2016/01/21 v0.6 Improvements for the "XeLaTeX" format
-(/usr/local/texlive/2018/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/local
-/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/local/tex
-live/2018/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2018/03/05 L3 programming layer (loader) 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2018/03/05 L3 programming layer (code)
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.st
+y (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2018-08-23 L3 programming layer (loader) 
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2018-08-23 L3 programming layer (code)
 \c_max_int=\count96
 \l_tmpa_int=\count97
 \l_tmpb_int=\count98
 \g_tmpa_int=\count99
 \g_tmpb_int=\count100
-\g__intarray_font_int=\count101
-\g__prg_map_int=\count102
-\c_log_iow=\count103
-\l_iow_line_count_int=\count104
-\l__iow_line_target_int=\count105
-\l__iow_one_indent_int=\count106
-\l__iow_indent_int=\count107
+\g__kernel_prg_map_int=\count101
+\c_log_iow=\count102
+\l_iow_line_count_int=\count103
+\l__iow_line_target_int=\count104
+\l__iow_one_indent_int=\count105
+\l__iow_indent_int=\count106
 \c_zero_dim=\dimen105
 \c_max_dim=\dimen106
 \l_tmpa_dim=\dimen107
@@ -139,94 +121,97 @@ Package: expl3 2018/03/05 L3 programming layer (code)
 \l_tmpb_muskip=\muskip13
 \g_tmpa_muskip=\muskip14
 \g_tmpb_muskip=\muskip15
-\l_keys_choice_int=\count108
-\c__fp_leading_shift_int=\count109
-\c__fp_middle_shift_int=\count110
-\c__fp_trailing_shift_int=\count111
-\c__fp_big_leading_shift_int=\count112
-\c__fp_big_middle_shift_int=\count113
-\c__fp_big_trailing_shift_int=\count114
-\c__fp_Bigg_leading_shift_int=\count115
-\c__fp_Bigg_middle_shift_int=\count116
-\c__fp_Bigg_trailing_shift_int=\count117
-\l__sort_length_int=\count118
-\l__sort_min_int=\count119
-\l__sort_top_int=\count120
-\l__sort_max_int=\count121
-\l__sort_true_max_int=\count122
-\l__sort_block_int=\count123
-\l__sort_begin_int=\count124
-\l__sort_end_int=\count125
-\l__sort_A_int=\count126
-\l__sort_B_int=\count127
-\l__sort_C_int=\count128
-\l__tl_build_start_index_int=\count129
-\l__tl_build_index_int=\count130
-\l__tl_analysis_normal_int=\count131
-\l__tl_analysis_index_int=\count132
-\l__tl_analysis_nesting_int=\count133
-\l__tl_analysis_type_int=\count134
-\l__regex_internal_a_int=\count135
-\l__regex_internal_b_int=\count136
-\l__regex_internal_c_int=\count137
-\l__regex_balance_int=\count138
-\l__regex_group_level_int=\count139
-\l__regex_mode_int=\count140
-\c__regex_cs_in_class_mode_int=\count141
-\c__regex_cs_mode_int=\count142
-\l__regex_catcodes_int=\count143
-\l__regex_default_catcodes_int=\count144
-\c__regex_catcode_L_int=\count145
-\c__regex_catcode_O_int=\count146
-\c__regex_catcode_A_int=\count147
-\c__regex_all_catcodes_int=\count148
-\l__regex_show_lines_int=\count149
-\l__regex_min_state_int=\count150
-\l__regex_max_state_int=\count151
-\l__regex_left_state_int=\count152
-\l__regex_right_state_int=\count153
-\l__regex_capturing_group_int=\count154
-\l__regex_min_pos_int=\count155
-\l__regex_max_pos_int=\count156
-\l__regex_curr_pos_int=\count157
-\l__regex_start_pos_int=\count158
-\l__regex_success_pos_int=\count159
-\l__regex_curr_char_int=\count160
-\l__regex_curr_catcode_int=\count161
-\l__regex_last_char_int=\count162
-\l__regex_case_changed_char_int=\count163
-\l__regex_curr_state_int=\count164
-\l__regex_step_int=\count165
-\l__regex_min_active_int=\count166
-\l__regex_max_active_int=\count167
-\l__regex_replacement_csnames_int=\count168
-\l__regex_match_count_int=\count169
-\l__regex_min_submatch_int=\count170
-\l__regex_submatch_int=\count171
-\l__regex_zeroth_submatch_int=\count172
-\g__regex_trace_regex_int=\count173
+\l_keys_choice_int=\count107
+\l__intarray_loop_int=\count108
+\c__intarray_sp_dim=\dimen111
+\g__intarray_font_int=\count109
+\c__fp_leading_shift_int=\count110
+\c__fp_middle_shift_int=\count111
+\c__fp_trailing_shift_int=\count112
+\c__fp_big_leading_shift_int=\count113
+\c__fp_big_middle_shift_int=\count114
+\c__fp_big_trailing_shift_int=\count115
+\c__fp_Bigg_leading_shift_int=\count116
+\c__fp_Bigg_middle_shift_int=\count117
+\c__fp_Bigg_trailing_shift_int=\count118
+\g__fp_array_int=\count119
+\l__fp_array_loop_int=\count120
+\l__sort_length_int=\count121
+\l__sort_min_int=\count122
+\l__sort_top_int=\count123
+\l__sort_max_int=\count124
+\l__sort_true_max_int=\count125
+\l__sort_block_int=\count126
+\l__sort_begin_int=\count127
+\l__sort_end_int=\count128
+\l__sort_A_int=\count129
+\l__sort_B_int=\count130
+\l__sort_C_int=\count131
+\l__tl_analysis_normal_int=\count132
+\l__tl_analysis_index_int=\count133
+\l__tl_analysis_nesting_int=\count134
+\l__tl_analysis_type_int=\count135
+\l__regex_internal_a_int=\count136
+\l__regex_internal_b_int=\count137
+\l__regex_internal_c_int=\count138
+\l__regex_balance_int=\count139
+\l__regex_group_level_int=\count140
+\l__regex_mode_int=\count141
+\c__regex_cs_in_class_mode_int=\count142
+\c__regex_cs_mode_int=\count143
+\l__regex_catcodes_int=\count144
+\l__regex_default_catcodes_int=\count145
+\c__regex_catcode_L_int=\count146
+\c__regex_catcode_O_int=\count147
+\c__regex_catcode_A_int=\count148
+\c__regex_all_catcodes_int=\count149
+\l__regex_show_lines_int=\count150
+\l__regex_min_state_int=\count151
+\l__regex_max_state_int=\count152
+\l__regex_left_state_int=\count153
+\l__regex_right_state_int=\count154
+\l__regex_capturing_group_int=\count155
+\l__regex_min_pos_int=\count156
+\l__regex_max_pos_int=\count157
+\l__regex_curr_pos_int=\count158
+\l__regex_start_pos_int=\count159
+\l__regex_success_pos_int=\count160
+\l__regex_curr_char_int=\count161
+\l__regex_curr_catcode_int=\count162
+\l__regex_last_char_int=\count163
+\l__regex_case_changed_char_int=\count164
+\l__regex_curr_state_int=\count165
+\l__regex_step_int=\count166
+\l__regex_min_active_int=\count167
+\l__regex_max_active_int=\count168
+\l__regex_replacement_csnames_int=\count169
+\l__regex_match_count_int=\count170
+\l__regex_min_submatch_int=\count171
+\l__regex_submatch_int=\count172
+\l__regex_zeroth_submatch_int=\count173
+\g__regex_trace_regex_int=\count174
 \c_empty_box=\box26
 \l_tmpa_box=\box27
 \l_tmpb_box=\box28
 \g_tmpa_box=\box29
 \g_tmpb_box=\box30
-\l__box_top_dim=\dimen111
-\l__box_bottom_dim=\dimen112
-\l__box_left_dim=\dimen113
-\l__box_right_dim=\dimen114
-\l__box_top_new_dim=\dimen115
-\l__box_bottom_new_dim=\dimen116
-\l__box_left_new_dim=\dimen117
-\l__box_right_new_dim=\dimen118
+\l__box_top_dim=\dimen112
+\l__box_bottom_dim=\dimen113
+\l__box_left_dim=\dimen114
+\l__box_right_dim=\dimen115
+\l__box_top_new_dim=\dimen116
+\l__box_bottom_new_dim=\dimen117
+\l__box_left_new_dim=\dimen118
+\l__box_right_new_dim=\dimen119
 \l__box_internal_box=\box31
 \l__coffin_internal_box=\box32
-\l__coffin_internal_dim=\dimen119
-\l__coffin_offset_x_dim=\dimen120
-\l__coffin_offset_y_dim=\dimen121
-\l__coffin_x_dim=\dimen122
-\l__coffin_y_dim=\dimen123
-\l__coffin_x_prime_dim=\dimen124
-\l__coffin_y_prime_dim=\dimen125
+\l__coffin_internal_dim=\dimen120
+\l__coffin_offset_x_dim=\dimen121
+\l__coffin_offset_y_dim=\dimen122
+\l__coffin_x_dim=\dimen123
+\l__coffin_y_dim=\dimen124
+\l__coffin_x_prime_dim=\dimen125
+\l__coffin_y_prime_dim=\dimen126
 \c_empty_coffin=\box33
 \l__coffin_aligned_coffin=\box34
 \l__coffin_aligned_internal_coffin=\box35
@@ -235,238 +220,250 @@ Package: expl3 2018/03/05 L3 programming layer (code)
 \l__coffin_display_coffin=\box38
 \l__coffin_display_coord_coffin=\box39
 \l__coffin_display_pole_coffin=\box40
-\l__coffin_display_offset_dim=\dimen126
-\l__coffin_display_x_dim=\dimen127
-\l__coffin_display_y_dim=\dimen128
-\l__coffin_bounding_shift_dim=\dimen129
-\l__coffin_left_corner_dim=\dimen130
-\l__coffin_right_corner_dim=\dimen131
-\l__coffin_bottom_corner_dim=\dimen132
-\l__coffin_top_corner_dim=\dimen133
-\l__coffin_scaled_total_height_dim=\dimen134
-\l__coffin_scaled_width_dim=\dimen135
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
-File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
-\g__driver_image_int=\count174
-))
-Package: xparse 2018/02/21 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count175
-\g__xparse_grabber_int=\count176
-\l__xparse_m_args_int=\count177
-\l__xparse_mandatory_args_int=\count178
-\l__xparse_v_nesting_int=\count179
-)
-Package: fontspec 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
-(/usr/local/texlive/2018/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTe
-X
-\l__fontspec_script_int=\count180
-\l__fontspec_language_int=\count181
-\l__fontspec_strnum_int=\count182
-\l__fontspec_tmp_int=\count183
-\l__fontspec_em_int=\count184
-\l__fontspec_emdef_int=\count185
-\l__fontspec_strong_int=\count186
-\l__fontspec_strongdef_int=\count187
-\l__fontspec_tmpa_dim=\dimen136
-\l__fontspec_tmpb_dim=\dimen137
-\l__fontspec_tmpc_dim=\dimen138
+\l__coffin_display_offset_dim=\dimen127
+\l__coffin_display_x_dim=\dimen128
+\l__coffin_display_y_dim=\dimen129
 \g__file_internal_ior=\read1
-(/usr/local/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+\l__coffin_bounding_shift_dim=\dimen130
+\l__coffin_left_corner_dim=\dimen131
+\l__coffin_right_corner_dim=\dimen132
+\l__coffin_bottom_corner_dim=\dimen133
+\l__coffin_top_corner_dim=\dimen134
+\l__coffin_scaled_total_height_dim=\dimen135
+\l__coffin_scaled_width_dim=\dimen136
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+File: l3xdvidpfmx.def 2018-08-23 v L3 Experimental driver: xdvipdfmx
+\g__driver_image_int=\count175
+))
+Package: xparse 2018-08-23 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count176
+\g__xparse_grabber_int=\count177
+\l__xparse_m_args_int=\count178
+\l__xparse_mandatory_args_int=\count179
+\l__xparse_v_nesting_int=\count180
+)
+Package: fontspec 2018/07/30 vv2.6h Font selection for XeLaTeX and LuaLaTeX
+
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2018/07/30 vv2.6h Font selection for XeLaTeX and LuaLaT
+eX
+\l__fontspec_script_int=\count181
+\l__fontspec_language_int=\count182
+\l__fontspec_strnum_int=\count183
+\l__fontspec_tmp_int=\count184
+\l__fontspec_em_int=\count185
+\l__fontspec_emdef_int=\count186
+\l__fontspec_strong_int=\count187
+\l__fontspec_strongdef_int=\count188
+\l__fontspec_tmpa_dim=\dimen137
+\l__fontspec_tmpb_dim=\dimen138
+\l__fontspec_tmpc_dim=\dimen139
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
-(/usr/local/texlive/2018/texmf-dist/tex/latex/base/tuenc.def
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/base/tuenc.def
 File: tuenc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
 ))
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \fontspec with sig. 'O{}mO{}' on line 542.
+. Defining command \fontspec with sig. 'O{}mO{}' on line 561.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmainfont with sig. 'O{}mO{}' on line 546.
+. Defining command \setmainfont with sig. 'O{}mO{}' on line 566.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setsansfont with sig. 'O{}mO{}' on line 550.
+. Defining command \setsansfont with sig. 'O{}mO{}' on line 571.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmonofont with sig. 'O{}mO{}' on line 554.
+. Defining command \setmonofont with sig. 'O{}mO{}' on line 576.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathrm with sig. 'O{}mO{}' on line 558.
+. Defining command \setmathrm with sig. 'O{}mO{}' on line 580.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 562.
+. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 584.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathsf with sig. 'O{}mO{}' on line 566.
+. Defining command \setmathsf with sig. 'O{}mO{}' on line 588.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathtt with sig. 'O{}mO{}' on line 570.
+. Defining command \setmathtt with sig. 'O{}mO{}' on line 592.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setromanfont with sig. 'O{}mO{}' on line 574.
+. Defining command \setromanfont with sig. 'O{}mO{}' on line 596.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 578.
+. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 600.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontface with sig. 'mO{}mO{}' on line 582.
+. Defining command \renewfontfamily with sig. 'mO{}mO{}' on line 604.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \defaultfontfeatures with sig. 't+om' on line 586.
+. Defining command \setfontfamily with sig. 'mO{}mO{}' on line 608.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \addfontfeatures with sig. 'm' on line 590.
+. Defining command \newfontface with sig. 'mO{}mO{}' on line 612.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \addfontfeature with sig. 'm' on line 594.
+. Defining command \defaultfontfeatures with sig. 't+om' on line 619.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontfeature with sig. 'mm' on line 598.
+. Defining command \addfontfeatures with sig. 'm' on line 623.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newAATfeature with sig. 'mmmm' on line 602.
+. Defining command \addfontfeature with sig. 'm' on line 627.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newopentypefeature with sig. 'mmm' on line 606.
+. Defining command \newfontfeature with sig. 'mm' on line 631.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newICUfeature with sig. 'mmm' on line 610.
+. Defining command \newAATfeature with sig. 'mmmm' on line 635.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \aliasfontfeature with sig. 'mm' on line 614.
+. Defining command \newopentypefeature with sig. 'mmm' on line 639.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 618.
+. Defining command \newICUfeature with sig. 'mmm' on line 643.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontscript with sig. 'mm' on line 622.
+. Defining command \aliasfontfeature with sig. 'mm' on line 647.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontlanguage with sig. 'mm' on line 626.
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 651.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareFontsExtensions with sig. 'm' on line 630.
+. Defining command \newfontscript with sig. 'mm' on line 655.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 634.
+. Defining command \newfontlanguage with sig. 'mm' on line 659.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingCommand with sig. 'mO{}m' on line 3632.
+. Defining command \DeclareFontExtensions with sig. 'm' on line 663.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingAccent with sig. 'mm' on line 3638.
+. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 667.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingSymbol with sig. 'mm' on line 3644.
+. Defining command \EncodingCommand with sig. 'mO{}m' on line 3655.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingComposite with sig. 'mmm' on line 3650.
+. Defining command \EncodingAccent with sig. 'mm' on line 3661.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3656.
+. Defining command \EncodingSymbol with sig. 'mm' on line 3667.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3681.
+. Defining command \EncodingComposite with sig. 'mmm' on line 3673.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \UndeclareSymbol with sig. 'm' on line 3687.
+. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3679.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \UndeclareAccent with sig. 'm' on line 3693.
+. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3704.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \UndeclareCommand with sig. 'm' on line 3699.
+. Defining command \UndeclareSymbol with sig. 'm' on line 3710.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \UndeclareComposite with sig. 'mm' on line 3706.
+. Defining command \UndeclareAccent with sig. 'm' on line 3716.
 .................................................
-(/usr/local/texlive/2018/texmf-dist/tex/latex/fontspec/fontspec.cfg)
-LaTeX Info: Redefining \itshape on input line 3891.
-LaTeX Info: Redefining \slshape on input line 3896.
-LaTeX Info: Redefining \scshape on input line 3901.
-LaTeX Info: Redefining \upshape on input line 3906.
-LaTeX Info: Redefining \em on input line 3936.
-LaTeX Info: Redefining \emph on input line 3961.
-LaTeX Info: Redefining \- on input line 4015.
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareCommand with sig. 'm' on line 3722.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareComposite with sig. 'mm' on line 3729.
+.................................................
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 3910.
+LaTeX Info: Redefining \slshape on input line 3915.
+LaTeX Info: Redefining \scshape on input line 3920.
+LaTeX Info: Redefining \upshape on input line 3925.
+LaTeX Info: Redefining \em on input line 3955.
+LaTeX Info: Redefining \emph on input line 3980.
+LaTeX Info: Redefining \- on input line 4034.
 .................................................
 . LaTeX info: "xparse/redefine-command"
 . 
-. Redefining command \oldstylenums with sig. 'm' on line 4110.
+. Redefining command \oldstylenums with sig. 'm' on line 4129.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \liningnums with sig. 'm' on line 4114.
+. Defining command \liningnums with sig. 'm' on line 4133.
 .................................................
-)) (/usr/local/texlive/2018/texmf-dist/tex/latex/realscripts/realscripts.sty
+))
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/realscripts/realscripts.sty
 Package: realscripts 2016/02/13 v0.3d Access OpenType subscripts and superscrip
 ts
 .................................................
@@ -509,24 +506,24 @@ ts
 . 
 . Defining command \textsupersubscript with sig. 'sO{l}mm' on line 143.
 .................................................
-\subsupersep=\dimen139
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/metalogo/metalogo.sty
+\subsupersep=\dimen140
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/metalogo/metalogo.sty
 Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
-(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
-(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
-(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 99.
-(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/xetex.def
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/xetex.def
 File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 ))
-\Gin@req@height=\dimen140
-\Gin@req@width=\dimen141
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
 )
 \xl@everylogo=\toks16
 \xl@@everylogo=\toks17
@@ -538,26 +535,30 @@ LaTeX Info: Redefining \LaTeXe on input line 219.
 \l__xetex_show_hyphens_temp_box=\box42
 \l__xetex_show_hyphens_final_box=\box43
 \g__xetex_show_hyphens_word_box=\box44
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/titlesec/titlesec.sty
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box45
 \beforetitleunit=\skip52
 \aftertitleunit=\skip53
-\ttl@plus=\dimen142
-\ttl@minus=\dimen143
+\ttl@plus=\dimen143
+\ttl@minus=\dimen144
 \ttl@toksa=\toks18
-\titlewidth=\dimen144
-\titlewidthlast=\dimen145
-\titlewidthfirst=\dimen146
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/titlesec/titletoc.sty
+\titlewidth=\dimen145
+\titlewidthlast=\dimen146
+\titlewidthfirst=\dimen147
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/titlesec/titletoc.sty
 Package: titletoc 2011/12/15 v1.6 TOC entries
-\ttl@leftsep=\dimen147
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+\ttl@leftsep=\dimen148
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.
+sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/generic/oberdiek/hobsub-generic.s
+ty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -567,7 +568,11 @@ Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
 Package hobsub Info: Skipping package `ifpdf' (already loaded).
-Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
@@ -586,23 +591,23 @@ Package atveryend Info: \enddocument detected (standard20110627).
 Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen148
-\Hy@linkcounter=\count188
-\Hy@pagecounter=\count189
-(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+\@linkdim=\dimen149
+\Hy@linkcounter=\count189
+\Hy@pagecounter=\count190
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count190
-(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+\Hy@SavedSpaceFactor=\count191
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `unicode' set `true' on input line 4383.
-(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/puenc.def
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2018/02/06 v6.86b Hyperref: PDF Unicode definition (HO)
 )
 Package hyperref Info: Option `hyperfootnotes' set `false' on input line 4383.
@@ -613,16 +618,16 @@ Package hyperref Info: Plain pages OFF on input line 4524.
 Package hyperref Info: Backreferencing OFF on input line 4529.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4762.
-\c@Hy@tempcnt=\count191
-(/usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+\c@Hy@tempcnt=\count192
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5115.
-\XeTeXLinkMargin=\dimen149
-\Fld@menulength=\count192
-\Field@Width=\dimen150
-\Fld@charsize=\dimen151
+\XeTeXLinkMargin=\dimen150
+\Fld@menulength=\count193
+\Field@Width=\dimen151
+\Fld@charsize=\dimen152
 Package hyperref Info: Hyper figures OFF on input line 6369.
 Package hyperref Info: Link nesting OFF on input line 6374.
 Package hyperref Info: Hyper index ON on input line 6377.
@@ -632,30 +637,31 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6394.
 Package hyperref Info: PDF/A mode OFF on input line 6399.
 LaTeX Info: Redefining \ref on input line 6439.
 LaTeX Info: Redefining \pageref on input line 6443.
-\Hy@abspage=\count193
-\c@Item=\count194
+\Hy@abspage=\count194
+\c@Item=\count195
 )
 Package hyperref Info: Driver: hxetex.
-(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hxetex.def
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hxetex.def
 File: hxetex.def 2018/02/06 v6.86b Hyperref driver for XeTeX
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/stringenc.sty
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/generic/oberdiek/stringenc.sty
 Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
 )
 )
 \pdfm@box=\box46
-\c@Hy@AnnotLevel=\count195
-\HyField@AnnotCount=\count196
-\Fld@listcount=\count197
-\c@bookmark@seq@number=\count198
-(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+\c@Hy@AnnotLevel=\count196
+\HyField@AnnotCount=\count197
+\Fld@listcount=\count198
+\c@bookmark@seq@number=\count199
+
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip54
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/ms/ragged2e.sty
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/ms/ragged2e.sty
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
-(/usr/local/texlive/2018/texmf-dist/tex/latex/ms/everysel.sty
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/ms/everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \CenteringLeftskip=\skip55
@@ -672,56 +678,46 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \RaggedLeftParindent=\skip66
 \RaggedRightParindent=\skip67
 \JustifyingParindent=\skip68
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2018/03/24 v5.7 Page Geometry
-\Gm@cnth=\count199
-\Gm@cntv=\count266
-\c@Gm@tempcnt=\count267
-\Gm@bindingoffset=\dimen152
-\Gm@wd@mp=\dimen153
-\Gm@odd@mp=\dimen154
-\Gm@even@mp=\dimen155
-\Gm@layoutwidth=\dimen156
-\Gm@layoutheight=\dimen157
-\Gm@layouthoffset=\dimen158
-\Gm@layoutvoffset=\dimen159
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+\Gm@cnth=\count266
+\Gm@cntv=\count267
+\c@Gm@tempcnt=\count268
+\Gm@bindingoffset=\dimen153
+\Gm@wd@mp=\dimen154
+\Gm@odd@mp=\dimen155
+\Gm@even@mp=\dimen156
+\Gm@layoutwidth=\dimen157
+\Gm@layoutheight=\dimen158
+\Gm@layouthoffset=\dimen159
+\Gm@layoutvoffset=\dimen160
 \Gm@dimlist=\toks19
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/changepage/changepage.sty
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
-\c@cp@cntr=\count268
-\cp@tempcnt=\count269
+\c@cp@cntr=\count269
+\cp@tempcnt=\count270
 )
 \@tufte@overhang=\skip69
 \@tufte@fullwidth=\skip70
 \@tufte@caption@fill=\skip71
-(/usr/local/texlive/2018/texmf-dist/tex/latex/paralist/paralist.sty
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/paralist/paralist.sty
 Package: paralist 2017/01/22 v2.7 Extended list environments
 \pltopsep=\skip72
 \plpartopsep=\skip73
 \plitemsep=\skip74
 \plparsep=\skip75
 \pl@lab=\toks20
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/textcase/textcase.sty
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/textcase/textcase.sty
 Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/soul/soul.sty
-Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
-\SOUL@word=\toks21
-\SOUL@lasttoken=\toks22
-\SOUL@cmds=\toks23
-\SOUL@buffer=\toks24
-\SOUL@token=\toks25
-\SOUL@spaceskip=\skip76
-\SOUL@ttwidth=\dimen160
-\SOUL@uldp=\dimen161
-\SOUL@ulht=\dimen162
 )
-LaTeX Info: Redefining \allcapsspacing on input line 737.
-LaTeX Info: Redefining \smallcapsspacing on input line 737.
-(/usr/local/texlive/2018/texmf-dist/tex/latex/setspace/setspace.sty
+
+Class tufte-book Warning: Couldn't locate `soul' package
+
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Package option `usenames' ignored on input line 216.
@@ -734,66 +730,66 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/dvipsnam.def
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/xcolor/svgnam.def
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/xcolor/svgnam.def
 File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
-)) (/usr/local/texlive/2018/texmf-dist/tex/latex/natbib/natbib.sty
+)) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip77
-\bibsep=\skip78
+\bibhang=\skip76
+\bibsep=\skip77
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count270
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/natbib/bibentry.sty
+\c@NAT@ctr=\count271
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/natbib/bibentry.sty
 Package: bibentry 2007/10/30 1.5 (PWD)
 )
 No file lifeguide.bbl.
-\c@@tufte@num@bibkeys=\count271
-(/usr/local/texlive/2018/texmf-dist/tex/latex/sauerj/optparams.sty
+\c@@tufte@num@bibkeys=\count272
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/sauerj/optparams.sty
 Package: optparams 2004/08/14 v0.9 multiple optional parameters in macros
 )
-\@tufte@sidenote@vertical@offset=\skip79
-(/usr/local/texlive/2018/texmf-dist/tex/latex/placeins/placeins.sty
+\@tufte@sidenote@vertical@offset=\skip78
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
 )
 \@tufte@margin@floatbox=\box47
 \@tufte@figure@box=\box48
 \@tufte@caption@box=\box49
-\@tufte@caption@vertical@offset=\skip80
-\@tufte@float@contents@width=\skip81
-(/usr/local/texlive/2018/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\@tufte@caption@vertical@offset=\skip79
+\@tufte@float@contents@width=\skip80
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
 s
-\f@nch@headwidth=\skip82
-\f@nch@O@elh=\skip83
-\f@nch@O@erh=\skip84
-\f@nch@O@olh=\skip85
-\f@nch@O@orh=\skip86
-\f@nch@O@elf=\skip87
-\f@nch@O@erf=\skip88
-\f@nch@O@olf=\skip89
-\f@nch@O@orf=\skip90
+\f@nch@headwidth=\skip81
+\f@nch@O@elh=\skip82
+\f@nch@O@erh=\skip83
+\f@nch@O@olh=\skip84
+\f@nch@O@orh=\skip85
+\f@nch@O@elf=\skip86
+\f@nch@O@erf=\skip87
+\f@nch@O@olf=\skip88
+\f@nch@O@orf=\skip89
 )
-\tufteskipamount=\skip91
-(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2018/04/01 v1.8r multicolumn formatting (FMi)
-\c@tracingmulticols=\count272
+\tufteskipamount=\skip90
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
+\c@tracingmulticols=\count273
 \mult@box=\box50
-\multicol@leftmargin=\dimen163
-\c@unbalance=\count273
-\c@collectmore=\count274
-\doublecol@number=\count275
-\multicoltolerance=\count276
-\multicolpretolerance=\count277
-\full@width=\dimen164
-\page@free=\dimen165
-\premulticols=\dimen166
-\postmulticols=\dimen167
-\multicolsep=\skip92
-\multicolbaselineskip=\skip93
+\multicol@leftmargin=\dimen161
+\c@unbalance=\count274
+\c@collectmore=\count275
+\doublecol@number=\count276
+\multicoltolerance=\count277
+\multicolpretolerance=\count278
+\full@width=\dimen162
+\page@free=\dimen163
+\premulticols=\dimen164
+\postmulticols=\dimen165
+\multicolsep=\skip91
+\multicolbaselineskip=\skip92
 \partial@page=\box51
 \last@line=\box52
-\maxbalancingoverflow=\dimen168
+\maxbalancingoverflow=\dimen166
 \mult@rightbox=\box53
 \mult@grightbox=\box54
 \mult@gfirstbox=\box55
@@ -815,77 +811,77 @@ Package: multicol 2018/04/01 v1.8r multicolumn formatting (FMi)
 \@tempa=\box71
 \@tempa=\box72
 \@tempa=\box73
-\c@columnbadness=\count278
-\c@finalcolumnbadness=\count279
-\last@try=\dimen169
-\multicolovershoot=\dimen170
-\multicolundershoot=\dimen171
+\c@columnbadness=\count279
+\c@finalcolumnbadness=\count280
+\last@try=\dimen167
+\multicolovershoot=\dimen168
+\multicolundershoot=\dimen169
 \mult@nat@firstbox=\box74
 \colbreak@box=\box75
-\mc@col@check@num=\count280
-))) (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+\mc@col@check@num=\count281
+))) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks26
+\@emptytoks=\toks21
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+)) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2017/09/02 v2.17a AMS math features
-\@mathmargin=\skip94
+\@mathmargin=\skip93
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
-(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks27
-\ex@=\dimen172
-)) (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+\@emptytoks=\toks22
+\ex@=\dimen170
+)) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen173
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+\pmbraise@=\dimen171
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count281
+\inf@bad=\count282
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count282
-\leftroot@=\count283
+\uproot@=\count283
+\leftroot@=\count284
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count284
-\DOTSCASE@=\count285
+\classnum@=\count285
+\DOTSCASE@=\count286
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
 \Mathstrutbox@=\box76
 \strutbox@=\box77
-\big@size=\dimen174
+\big@size=\dimen172
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count286
-\c@MaxMatrixCols=\count287
+\macc@depth=\count287
+\c@MaxMatrixCols=\count288
 \dotsspace@=\muskip17
-\c@parentequation=\count288
-\dspbrk@lvl=\count289
-\tag@help=\toks28
-\row@=\count290
-\column@=\count291
-\maxfields@=\count292
-\andhelp@=\toks29
-\eqnshift@=\dimen175
-\alignsep@=\dimen176
-\tagshift@=\dimen177
-\tagwidth@=\dimen178
-\totwidth@=\dimen179
-\lineht@=\dimen180
-\@envbody=\toks30
-\multlinegap=\skip95
-\multlinetaggap=\skip96
-\mathdisplay@stack=\toks31
+\c@parentequation=\count289
+\dspbrk@lvl=\count290
+\tag@help=\toks23
+\row@=\count291
+\column@=\count292
+\maxfields@=\count293
+\andhelp@=\toks24
+\eqnshift@=\dimen173
+\alignsep@=\dimen174
+\tagshift@=\dimen175
+\tagwidth@=\dimen176
+\totwidth@=\dimen177
+\lineht@=\dimen178
+\@envbody=\toks25
+\multlinegap=\skip94
+\multlinetaggap=\skip95
+\mathdisplay@stack=\toks26
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/base/fixltx2e.sty
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/base/fixltx2e.sty
 Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
 Applying: [2015/01/01] Old fixltx2e package on input line 46.
 
@@ -894,111 +890,114 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 (fixltx2e)                See the latexrelease package for details.
 
 Already applied: [0000/00/00] Old fixltx2e package on input line 53.
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/booktabs/booktabs.sty
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2016/04/27 v1.618033 publication quality tables
-\heavyrulewidth=\dimen181
-\lightrulewidth=\dimen182
-\cmidrulewidth=\dimen183
-\belowrulesep=\dimen184
-\belowbottomsep=\dimen185
-\aboverulesep=\dimen186
-\abovetopsep=\dimen187
-\cmidrulesep=\dimen188
-\cmidrulekern=\dimen189
-\defaultaddspace=\dimen190
-\@cmidla=\count293
-\@cmidlb=\count294
-\@aboverulesep=\dimen191
-\@belowrulesep=\dimen192
-\@thisruleclass=\count295
-\@lastruleclass=\count296
-\@thisrulewidth=\dimen193
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/units/units.sty
+\heavyrulewidth=\dimen179
+\lightrulewidth=\dimen180
+\cmidrulewidth=\dimen181
+\belowrulesep=\dimen182
+\belowbottomsep=\dimen183
+\aboverulesep=\dimen184
+\abovetopsep=\dimen185
+\cmidrulesep=\dimen186
+\cmidrulekern=\dimen187
+\defaultaddspace=\dimen188
+\@cmidla=\count294
+\@cmidlb=\count295
+\@aboverulesep=\dimen189
+\@belowrulesep=\dimen190
+\@thisruleclass=\count296
+\@lastruleclass=\count297
+\@thisrulewidth=\dimen191
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/units/units.sty
 Package: units 1998/08/04 v0.9b Typesetting units
-(/usr/local/texlive/2018/texmf-dist/tex/latex/units/nicefrac.sty
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/units/nicefrac.sty
 Package: nicefrac 1998/08/04 v0.9b Nice fractions
-\L@UnitsRaiseDisplaystyle=\skip97
-\L@UnitsRaiseTextstyle=\skip98
-\L@UnitsRaiseScriptstyle=\skip99
-)) (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/longtable.sty
+\L@UnitsRaiseDisplaystyle=\skip96
+\L@UnitsRaiseTextstyle=\skip97
+\L@UnitsRaiseScriptstyle=\skip98
+)) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip100
-\LTright=\skip101
-\LTpre=\skip102
-\LTpost=\skip103
-\LTchunksize=\count297
-\LTcapwidth=\dimen194
+\LTleft=\skip99
+\LTright=\skip100
+\LTpre=\skip101
+\LTpost=\skip102
+\LTchunksize=\count298
+\LTcapwidth=\dimen192
 \LT@head=\box78
 \LT@firsthead=\box79
 \LT@foot=\box80
 \LT@lastfoot=\box81
-\LT@cols=\count298
-\LT@rows=\count299
-\c@LT@tables=\count300
-\c@LT@chunks=\count301
-\LT@p@ftn=\toks32
-) (/usr/local/texlive/2018/texmf-dist/tex/generic/ulem/ulem.sty
+\LT@cols=\count299
+\LT@rows=\count300
+\c@LT@tables=\count301
+\c@LT@chunks=\count302
+\LT@p@ftn=\toks27
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box82
 \UL@hyphenbox=\box83
-\UL@skip=\skip104
-\UL@hook=\toks33
-\UL@height=\dimen195
-\UL@pe=\count302
-\UL@pixel=\dimen196
+\UL@skip=\skip103
+\UL@hook=\toks28
+\UL@height=\dimen193
+\UL@pe=\count303
+\UL@pixel=\dimen194
 \ULC@box=\box84
 Package: ulem 2012/05/18
-\ULdepth=\dimen197
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/morefloats/morefloats.sty
+\ULdepth=\dimen195
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/morefloats/morefloats.sty
 Package: morefloats 2015/07/22 v1.0h Raise limit of unprocessed floats (HMM)
 Package morefloats Info: Maximum number of possible floats asked for: 36
 (morefloats)             (i.e. 18 more floats).
 (morefloats)             LaTeX might run out of memory before this
 (morefloats)             (in which case it will notify you).
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/ctex/ctex.sty
-Package: ctex 2018/01/28 v2.4.12 Chinese adapter in LaTeX (CTEX)
-(/usr/local/texlive/2018/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2018/02/21 LaTeX2e option processing using LaTeX3 keys
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/ctex/ctexhook.sty
-Package: ctexhook 2018/01/28 v2.4.12 Document and package hooks (CTEX)
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/ctex/ctexpatch.sty
-Package: ctexpatch 2018/01/28 v2.4.12 Patching commands (CTEX)
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/base/fix-cm.sty
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/ctex/ctex.sty
+Package: ctex 2018/05/02 v2.4.14 Chinese adapter in LaTeX (CTEX)
+
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2
+e.sty
+Package: l3keys2e 2018-08-23 LaTeX2e option processing using LaTeX3 keys
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2018/05/02 v2.4.14 Document and package hooks (CTEX)
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2018/05/02 v2.4.14 Patching commands (CTEX)
+) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
-(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1enc.def
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 ))
-\l__ctex_tmp_int=\count303
+\l__ctex_tmp_int=\count304
 \l__ctex_tmp_box=\box85
-\l__ctex_tmp_dim=\dimen198
-\g__ctex_font_size_flag=\count304
-(/usr/local/texlive/2018/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
-File: ctexopts.cfg 2018/01/28 v2.4.12 Option configuration file (CTEX)
+\l__ctex_tmp_dim=\dimen196
+\g__ctex_font_size_flag=\count305
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2018/05/02 v2.4.14 Option configuration file (CTEX)
 )
-(/usr/local/texlive/2018/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
-File: ctex-engine-xetex.def 2018/01/28 v2.4.12 XeLaTeX adapter (CTEX)
-(/usr/local/texlive/2018/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
-Package: xeCJK 2018/04/07 v3.7.0 Typesetting CJK scripts with XeLaTeX
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/ctex/engine/ctex-engine-xet
+ex.def
+File: ctex-engine-xetex.def 2018/05/02 v2.4.14 XeLaTeX adapter (CTEX)
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2018/04/30 v3.7.1 Typesetting CJK scripts with XeLaTeX
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.st
-y
-Package: xtemplate 2018/02/21 L3 Experimental prototype document functions
-\l__xtemplate_tmp_dim=\dimen199
-\l__xtemplate_tmp_int=\count305
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xtemplate/xtempl
+ate.sty
+Package: xtemplate 2018-08-23 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen197
+\l__xtemplate_tmp_int=\count306
 \l__xtemplate_tmp_muskip=\muskip18
-\l__xtemplate_tmp_skip=\skip105
+\l__xtemplate_tmp_skip=\skip104
 )
-\l__xeCJK_tmp_int=\count306
+\l__xeCJK_tmp_int=\count307
 \l__xeCJK_tmp_box=\box86
-\l__xeCJK_tmp_dim=\dimen256
-\l__xeCJK_tmp_skip=\skip106
+\l__xeCJK_tmp_dim=\dimen198
+\l__xeCJK_tmp_skip=\skip105
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining command \xeCJKShipoutHook with sig. '' on line 150.
 .................................................
-\g__xeCJK_space_factor_int=\count307
-\l__xeCJK_begin_int=\count308
-\l__xeCJK_end_int=\count309
+\g__xeCJK_space_factor_int=\count308
+\l__xeCJK_begin_int=\count309
+\l__xeCJK_end_int=\count310
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -1044,26 +1043,26 @@ Package: xtemplate 2018/02/21 L3 Experimental prototype document functions
 . 
 . Defining command \xeCJKResetCharClass with sig. '' on line 670.
 .................................................
-\l__xeCJK_last_skip=\skip107
-\g__xeCJK_node_int=\count310
-\c__xeCJK_CJK_node_dim=\dimen257
-\c__xeCJK_CJK-space_node_dim=\dimen258
-\c__xeCJK_default_node_dim=\dimen259
-\c__xeCJK_default-space_node_dim=\dimen260
-\c__xeCJK_CJK-widow_node_dim=\dimen261
-\c__xeCJK_normalspace_node_dim=\dimen262
-\l__xeCJK_ccglue_skip=\skip108
-\l__xeCJK_ecglue_skip=\skip109
-\l__xeCJK_punct_kern_skip=\skip110
-\l__xeCJK_last_penalty_int=\count311
-\l__xeCJK_last_bound_dim=\dimen263
-\l__xeCJK_last_kern_dim=\dimen264
+\l__xeCJK_last_skip=\skip106
+\g__xeCJK_node_int=\count311
+\c__xeCJK_CJK_node_dim=\dimen199
+\c__xeCJK_CJK-space_node_dim=\dimen256
+\c__xeCJK_default_node_dim=\dimen257
+\c__xeCJK_default-space_node_dim=\dimen258
+\c__xeCJK_CJK-widow_node_dim=\dimen259
+\c__xeCJK_normalspace_node_dim=\dimen260
+\l__xeCJK_ccglue_skip=\skip107
+\l__xeCJK_ecglue_skip=\skip108
+\l__xeCJK_punct_kern_skip=\skip109
+\l__xeCJK_last_penalty_int=\count312
+\l__xeCJK_last_bound_dim=\dimen261
+\l__xeCJK_last_kern_dim=\dimen262
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining command \xeCJKnobreak with sig. '' on line 1889.
 .................................................
-\l__xeCJK_widow_penalty_int=\count312
+\l__xeCJK_widow_penalty_int=\count313
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -1095,25 +1094,25 @@ Package: xtemplate 2018/02/21 L3 Experimental prototype document functions
 . 
 . Declaring object type 'xeCJK/punctuation' taking 0 argument(s) on line 2362.
 .................................................
-\l__xeCJK_fixed_punct_width_dim=\dimen265
-\l__xeCJK_mixed_punct_width_dim=\dimen266
-\l__xeCJK_middle_punct_width_dim=\dimen267
-\l__xeCJK_fixed_margin_width_dim=\dimen268
-\l__xeCJK_mixed_margin_width_dim=\dimen269
-\l__xeCJK_middle_margin_width_dim=\dimen270
-\l__xeCJK_bound_punct_width_dim=\dimen271
-\l__xeCJK_bound_margin_width_dim=\dimen272
-\l__xeCJK_margin_minimum_dim=\dimen273
-\l__xeCJK_kerning_total_width_dim=\dimen274
-\l__xeCJK_same_align_margin_dim=\dimen275
-\l__xeCJK_different_align_margin_dim=\dimen276
-\l__xeCJK_kerning_margin_width_dim=\dimen277
-\l__xeCJK_kerning_margin_minimum_dim=\dimen278
-\l__xeCJK_bound_dim=\dimen279
-\l__xeCJK_reverse_bound_dim=\dimen280
-\l__xeCJK_minimum_bound_dim=\dimen281
-\l__xeCJK_kerning_margin_dim=\dimen282
-\l__xeCJK_original_margin_dim=\dimen283
+\l__xeCJK_fixed_punct_width_dim=\dimen263
+\l__xeCJK_mixed_punct_width_dim=\dimen264
+\l__xeCJK_middle_punct_width_dim=\dimen265
+\l__xeCJK_fixed_margin_width_dim=\dimen266
+\l__xeCJK_mixed_margin_width_dim=\dimen267
+\l__xeCJK_middle_margin_width_dim=\dimen268
+\l__xeCJK_bound_punct_width_dim=\dimen269
+\l__xeCJK_bound_margin_width_dim=\dimen270
+\l__xeCJK_margin_minimum_dim=\dimen271
+\l__xeCJK_kerning_total_width_dim=\dimen272
+\l__xeCJK_same_align_margin_dim=\dimen273
+\l__xeCJK_different_align_margin_dim=\dimen274
+\l__xeCJK_kerning_margin_width_dim=\dimen275
+\l__xeCJK_kerning_margin_minimum_dim=\dimen276
+\l__xeCJK_bound_dim=\dimen277
+\l__xeCJK_reverse_bound_dim=\dimen278
+\l__xeCJK_minimum_bound_dim=\dimen279
+\l__xeCJK_kerning_margin_dim=\dimen280
+\l__xeCJK_original_margin_dim=\dimen281
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -1131,7 +1130,7 @@ Package: xtemplate 2018/02/21 L3 Experimental prototype document functions
 . 
 . Defining command \setCJKfallbackfamilyfont with sig. 'mom' on line 3059.
 .................................................
-\g__xeCJK_family_int=\count313
+\g__xeCJK_family_int=\count314
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -1193,9 +1192,9 @@ Package: xtemplate 2018/02/21 L3 Experimental prototype document functions
 . 
 . Defining command \setCJKmathfont with sig. 'om' on line 3870.
 .................................................
-\l__xeCJK_fam_int=\count314
-\g__xeCJK_fam_allocation_int=\count315
-\l__xeCJK_verb_case_int=\count316
+\l__xeCJK_fam_int=\count315
+\g__xeCJK_fam_allocation_int=\count316
+\l__xeCJK_verb_case_int=\count317
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -1206,7 +1205,7 @@ Package: xtemplate 2018/02/21 L3 Experimental prototype document functions
 . 
 . Defining command \xeCJKOffVerbAddon with sig. '' on line 4121.
 .................................................
-\l__xeCJK_verb_exspace_skip=\skip111
+\l__xeCJK_verb_exspace_skip=\skip110
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -1277,87 +1276,79 @@ Package: xtemplate 2018/02/21 L3 Experimental prototype document functions
 . 
 . Redefining command \fontfamily with sig. 'm' on line 4628.
 .................................................
-(/usr/local/texlive/2018/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
-File: xeCJK.cfg 2018/04/07 v3.7.0 Configuration file for xeCJK package
-)) (/usr/local/texlive/2018/texmf-dist/tex/xelatex/xecjk/xeCJKfntef.sty
-Package: xeCJKfntef 2018/04/07 v3.7.0 xeCJK font effect
-(/usr/local/texlive/2018/texmf-dist/tex/latex/environ/environ.sty
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2018/04/30 v3.7.1 Configuration file for xeCJK package
+)) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/xelatex/xecjk/xeCJKfntef.sty
+Package: xeCJKfntef 2018/04/30 v3.7.1 xeCJK font effect
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
-(/usr/local/texlive/2018/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
-)) (/usr/local/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
-Package: CJKfntef 2015/04/18 4.8.4
-\CJK@fntefSkip=\skip112
-\CJK@nest=\count317
-\CJK@fntefDimen=\dimen284
-\CJK@underdotBox=\box87
-\CJK@ULbox=\box88
-\CJK@underanyskip=\dimen285
-)
-\l__xeCJK_space_skip=\skip113
-\c__xeCJK_ulem-begin_node_dim=\dimen286
-\c__xeCJK_null_box=\box89
+))
+\l__xeCJK_space_skip=\skip111
+\c__xeCJK_ulem-begin_node_dim=\dimen282
+\c__xeCJK_null_box=\box87
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
 . Defining command \xeCJKfntefon with sig. 'st-so' on line 657.
 .................................................
 .................................................
-. LaTeX info: "xparse/redefine-command"
+. LaTeX info: "xparse/define-command"
 . 
-. Redefining command \CJKunderline with sig. 'st-so' on line 673.
+. Defining command \CJKunderline with sig. 'st-so' on line 673.
 .................................................
 .................................................
-. LaTeX info: "xparse/redefine-command"
+. LaTeX info: "xparse/define-command"
 . 
-. Redefining command \varCJKunderline with sig. '' on line 675.
+. Defining command \varCJKunderline with sig. '' on line 675.
 .................................................
 .................................................
-. LaTeX info: "xparse/redefine-command"
+. LaTeX info: "xparse/define-command"
 . 
-. Redefining command \CJKunderwave with sig. 'st-so' on line 685.
+. Defining command \CJKunderwave with sig. 'st-so' on line 685.
 .................................................
 .................................................
-. LaTeX info: "xparse/redefine-command"
+. LaTeX info: "xparse/define-command"
 . 
-. Redefining command \CJKunderdblline with sig. 'st-so' on line 709.
+. Defining command \CJKunderdblline with sig. 'st-so' on line 709.
 .................................................
 .................................................
-. LaTeX info: "xparse/redefine-command"
+. LaTeX info: "xparse/define-command"
 . 
-. Redefining command \CJKsout with sig. 'st-so' on line 728.
+. Defining command \CJKsout with sig. 'st-so' on line 728.
 .................................................
 .................................................
-. LaTeX info: "xparse/redefine-command"
+. LaTeX info: "xparse/define-command"
 . 
-. Redefining command \CJKxout with sig. 'st-so' on line 745.
+. Defining command \CJKxout with sig. 'st-so' on line 745.
 .................................................
 .................................................
-. LaTeX info: "xparse/redefine-command"
+. LaTeX info: "xparse/define-command"
 . 
-. Redefining command \CJKunderanyline with sig. 'st-somm' on line 766.
+. Defining command \CJKunderanyline with sig. 'st-somm' on line 766.
 .................................................
-\l__xeCJK_fntef_box=\box90
+\l__xeCJK_fntef_box=\box88
 .................................................
-. LaTeX info: "xparse/redefine-command"
+. LaTeX info: "xparse/define-command"
 . 
-. Redefining command \CJKunderanysymbol with sig. 'ommm' on line 940.
+. Defining command \CJKunderanysymbol with sig. 'ommm' on line 940.
 .................................................
 .................................................
-. LaTeX info: "xparse/redefine-command"
+. LaTeX info: "xparse/define-command"
 . 
-. Redefining command \CJKunderdot with sig. 'om' on line 949.
+. Defining command \CJKunderdot with sig. 'om' on line 949.
 .................................................
-\l__xeCJK_under_symbol_box=\box91
+\l__xeCJK_under_symbol_box=\box89
 .................................................
-. LaTeX info: "xparse/redefine-environment"
+. LaTeX info: "xparse/define-environment"
 . 
-. Redefining environment 'CJKfilltwosides' with sig. 'O{c}m' on line 1053.
+. Defining environment 'CJKfilltwosides' with sig. 'O{c}m' on line 1053.
 .................................................
-\c__xeCJK_filll_skip=\skip114
+\c__xeCJK_filll_skip=\skip112
 )
-\ccwd=\dimen287
-\l__ctex_ccglue_skip=\skip115
+\ccwd=\dimen283
+\l__ctex_ccglue_skip=\skip113
 )
 .................................................
 . LaTeX info: "xparse/define-command"
@@ -1384,7 +1375,7 @@ Package: CJKfntef 2015/04/18 4.8.4
 . 
 . Defining command \ziju with sig. 'm' on line 479.
 .................................................
-\l__ctex_ziju_dim=\dimen288
+\l__ctex_ziju_dim=\dimen284
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -1395,7 +1386,7 @@ Package: CJKfntef 2015/04/18 4.8.4
 . 
 . Defining command \CTEXnoindent with sig. '' on line 526.
 .................................................
-(/usr/local/texlive/2018/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/zhnumber/zhnumber.sty
 Package: zhnumber 2018/01/28 v2.6 Typesetting numbers with Chinese glyphs
 .................................................
 . LaTeX info: "xparse/define-command"
@@ -1454,7 +1445,7 @@ Package: zhnumber 2018/01/28 v2.6 Typesetting numbers with Chinese glyphs
 . 
 . Defining command \zhnumsetup with sig. '+m' on line 934.
 .................................................
-(/usr/local/texlive/2018/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
 File: zhnumber-utf8.cfg 2018/01/28 v2.6 Chinese numerals with UTF8 encoding
 ))
 .................................................
@@ -1468,13 +1459,15 @@ File: zhnumber-utf8.cfg 2018/01/28 v2.6 Chinese numerals with UTF8 encoding
 . Defining command \CTEXdigits with sig. 'mm' on line 545.
 .................................................
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.d
-ef
-File: ctex-scheme-chinese.def 2018/01/28 v2.4.12 Chinese scheme for generic (CT
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chi
+nese.def
+File: ctex-scheme-chinese.def 2018/05/02 v2.4.14 Chinese scheme for generic (CT
 EX)
-(/usr/local/texlive/2018/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
-File: ctex-name-utf8.cfg 2018/01/28 v2.4.12 Caption with encoding UTF8 (CTEX)
-)) (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/indentfirst.sty
+
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.
+cfg
+File: ctex-name-utf8.cfg 2018/05/02 v2.4.14 Caption with encoding UTF8 (CTEX)
+)) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
 .................................................
@@ -1482,8 +1475,8 @@ Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 . 
 . Defining command \zihao with sig. 'm' on line 642.
 .................................................
-(/usr/local/texlive/2018/texmf-dist/tex/latex/ctex/ctex-c5size.clo
-File: ctex-c5size.clo 2018/01/28 v2.4.12 c5size option (CTEX)
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+File: ctex-c5size.clo 2018/05/02 v2.4.14 c5size option (CTEX)
 )
 .................................................
 . LaTeX info: "xparse/define-command"
@@ -1491,90 +1484,98 @@ File: ctex-c5size.clo 2018/01/28 v2.4.12 c5size option (CTEX)
 . Defining command \CTeX with sig. '' on line 746.
 .................................................
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-mac.def
-File: ctex-fontset-mac.def 2018/01/28 v2.4.12 Mac OS X fonts definition (CTEX)
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-m
+ac.def
+File: ctex-fontset-mac.def 2018/05/02 v2.4.14 Mac OS X fonts definition (CTEX)
+
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-m
+acnew.def
+File: ctex-fontset-macnew.def 2018/05/02 v2.4.14 Mac OS X fonts definition for 
+El Capitan or later version (CTEX)
 *************************************************
 * fontspec warning: "script-not-exist"
 * 
-* Font 'STSong' does not contain script 'CJK'.
+* Font 'Songti SC Light' does not contain script 'CJK'.
 *************************************************
 .................................................
 . fontspec info: "set-scale"
 . 
-. STSong scale = 0.9663665047913367.
-.................................................
-\g__fontspec_family_STSong_int=\count319
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "STKaiti/B" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "STHeiti/I" (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "STSong/BI" (it probably doesn't exist).
+. Songti SC Light scale = 0.9663665047913367.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. STSong scale = 0.9663665047913367.
+. Songti SC Light scale = 0.9663665047913367.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. STHeiti scale = 0.7292728216987419.
+. Songti SC Light/B scale = 0.9663665047913367.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. STKaiti scale = 0.9663665047913367.
+. Kaiti SC scale = 0.9663665047913367.
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. Kaiti SC Bold scale = 0.9663665047913367.
 .................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'STSong(0)' created for font 'STSong' with options
-. [Ligatures=TeX,Scale=MatchLowercase,Script={CJK},BoldFont={STHeiti},ItalicFon
-t={STKaiti}].
+. Font family 'SongtiSC(0)' created for font 'Songti SC' with options
+. [Ligatures=TeX,Scale=MatchLowercase,Script={CJK},UprightFont={Songti SC
+. Light},BoldItalicFont={Kaiti SC Bold},ItalicFont={Kaiti SC}].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
-. - 'normal' (m/n) with NFSS spec.:
-. <->s*[0.9663665047913367]"STSong/OT:mapping=tex-text;"
+. - 'normal' (m/n) with NFSS spec.: <->s*[0.9663665047913367]"Songti SC
+. Light/OT:mapping=tex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
-. - 'bold' (bx/n) with NFSS spec.:
-. <->s*[0.7292728216987419]"STHeiti/OT:mapping=tex-text;"
+. - 'bold' (bx/n) with NFSS spec.: <->s*[0.9663665047913367]"Songti SC
+. Light/B/OT:mapping=tex-text;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
-. - 'italic' (m/it) with NFSS spec.:
-. <->s*[0.9663665047913367]"STKaiti/OT:mapping=tex-text;"
+. - 'italic' (m/it) with NFSS spec.: <->s*[0.9663665047913367]"Kaiti
+. SC/OT:mapping=tex-text;"
 . - 'italic small caps'  (m/itsc) with NFSS spec.: 
+. - 'bold italic' (bx/it) with NFSS spec.: <->s*[0.9663665047913367]"Kaiti SC
+. Bold/OT:mapping=tex-text;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \songti with sig. '' on line 48.
+. Defining command \songti with sig. '' on line 57.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \heiti with sig. '' on line 49.
+. Defining command \heiti with sig. '' on line 58.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \fangsong with sig. '' on line 50.
+. Defining command \fangsong with sig. '' on line 59.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \kaishu with sig. '' on line 51.
+. Defining command \kaishu with sig. '' on line 60.
 .................................................
-)) (/usr/local/texlive/2018/texmf-dist/tex/latex/ctex/config/ctex.cfg
-File: ctex.cfg 2018/01/28 v2.4.12 Configuration file (CTEX)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \yahei with sig. '' on line 61.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \pingfang with sig. '' on line 62.
+.................................................
+))) (/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2018/05/02 v2.4.14 Configuration file (CTEX)
 ) (./lifeguide.aux)
 \openout1 = `lifeguide.aux'.
 
@@ -1655,14 +1656,16 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 79.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 79.
-\AtBeginShipoutBox=\box92
+\AtBeginShipoutBox=\box90
 Package hyperref Info: Link coloring OFF on input line 79.
-(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/generic/oberdiek/gettitlestring.s
+ty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count320
+\c@section@level=\count319
 )
 LaTeX Info: Redefining \ref on input line 79.
 LaTeX Info: Redefining \pageref on input line 79.
@@ -1707,96 +1710,69 @@ LaTeX Info: Redefining \selectfont on input line 79.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\langwohyphens=\language84
-*************************************************
-* fontspec warning: "script-not-exist-latn"
-* 
-* Font 'STXihei' does not contain script 'CJK'.
-*  'Latin' script used instead.
-*************************************************
+\langwohyphens=\language3
 .................................................
 . fontspec info: "set-scale"
 . 
-. STXihei scale = 0.7292728216987419.
-.................................................
-\g__fontspec_family_STXihei_int=\count321
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font "STHeiti/I" (it probably doesn't exist).
+. PingFang SC scale = 0.7183326295469628.
 .................................................
 .................................................
 . fontspec info: "no-font-shape"
 . 
-. Could not resolve font "STXihei/I" (it probably doesn't exist).
+. Could not resolve font "PingFang SC/I" (it probably doesn't exist).
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. STXihei scale = 0.7292728216987419.
+. PingFang SC scale = 0.7183326295469628.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. STHeiti scale = 0.7292728216987419.
+. PingFang SC/B scale = 0.7183326295469628.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. STXihei/BI scale = 0.7292728216987419.
+. PingFang SC/BI scale = 0.7183326295469628.
 .................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'STXihei(0)' created for font 'STXihei' with options
-. [Ligatures=TeX,Scale=MatchLowercase,Script={CJK},BoldFont={STHeiti}].
+. Font family 'PingFangSC(0)' created for font 'PingFang SC' with options
+. [Ligatures=TeX,Scale=MatchLowercase,Script={CJK}].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
-. - 'normal' (m/n) with NFSS spec.:
-. <->s*[0.7292728216987419]"STXihei/OT:script=latn;language=DFLT;mapping=tex-te
-xt;"
+. - 'normal' (m/n) with NFSS spec.: <->s*[0.7183326295469628]"PingFang
+. SC/OT:script=hani;language=DFLT;mapping=tex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
-. - 'bold' (bx/n) with NFSS spec.:
-. <->s*[0.7292728216987419]"STHeiti/OT:script=latn;language=DFLT;mapping=tex-te
-xt;"
+. - 'bold' (bx/n) with NFSS spec.: <->s*[0.7183326295469628]"PingFang
+. SC/B/OT:script=hani;language=DFLT;mapping=tex-text;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
-. - 'bold italic' (bx/it) with NFSS spec.:
-. <->s*[0.7292728216987419]"STXihei/BI/OT:script=latn;language=DFLT;mapping=tex
--text;"
+. - 'bold italic' (bx/it) with NFSS spec.: <->s*[0.7183326295469628]"PingFang
+. SC/BI/OT:script=hani;language=DFLT;mapping=tex-text;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 81; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmss/m/n/18 ".
-*   The requested feature is "LetterSpace=15". 
-*************************************************
-LaTeX Font Info:    Font shape `TU/STXihei(0)/m/n' will be
-(Font)              scaled to size 13.12701pt on input line 81.
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 81; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmss/m/n/36 ".
-*   The requested feature is "LetterSpace=15". 
-*************************************************
-LaTeX Font Info:    Font shape `TU/STXihei(0)/m/n' will be
-(Font)              scaled to size 26.25403pt on input line 81.
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 81; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmss/m/n/14 ".
-*   The requested feature is "LetterSpace=15". 
-*************************************************
+
+Class tufte-book Warning: Proper spacing of ALL-CAPS letters has not been set u
+p.
+This message occurred on input line 81.
+
+LaTeX Font Info:    Font shape `TU/PingFangSC(0)/m/n' will be
+(Font)              scaled to size 12.93008pt on input line 81.
+
+Class tufte-book Warning: Proper spacing of ALL-CAPS letters has not been set u
+p.
+This message occurred on input line 81.
+
+LaTeX Font Info:    Font shape `TU/PingFangSC(0)/m/n' will be
+(Font)              scaled to size 25.86017pt on input line 81.
+
+Class tufte-book Warning: Proper spacing of ALL-CAPS letters has not been set u
+p.
+This message occurred on input line 81.
+
 [1
 
 
@@ -1804,44 +1780,32 @@ LaTeX Font Info:    Font shape `TU/STXihei(0)/m/n' will be
 
 
 ]
-LaTeX Font Info:    Font shape `TU/STSong(0)/m/it' will be
+LaTeX Font Info:    Font shape `TU/SongtiSC(0)/m/it' will be
 (Font)              scaled to size 21.33984pt on input line 87.
 (./lifeguide.toc
-LaTeX Font Info:    Font shape `TU/STSong(0)/m/n' will be
+LaTeX Font Info:    Font shape `TU/SongtiSC(0)/m/n' will be
 (Font)              scaled to size 10.18492pt on input line 1.
-LaTeX Font Info:    Font shape `TU/STSong(0)/m/it' will be
+LaTeX Font Info:    Font shape `TU/SongtiSC(0)/m/it' will be
 (Font)              scaled to size 17.45987pt on input line 1.
-LaTeX Font Info:    Font shape `TU/STSong(0)/m/it' will be
+LaTeX Font Info:    Font shape `TU/SongtiSC(0)/m/it' will be
 (Font)              scaled to size 14.5499pt on input line 2.
 [3]
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 40; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
 
-LaTeX Font Warning: Font shape `TU/STSong(0)/m/sc' undefined
-(Font)              using `TU/STSong(0)/m/n' instead on input line 40.
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 41.
 
-LaTeX Font Info:    Font shape `TU/STSong(0)/m/n' will be
-(Font)              scaled to size 9.6637pt on input line 40.
+LaTeX Font Info:    Font shape `TU/SongtiSC(0)/m/n' will be
+(Font)              scaled to size 9.6637pt on input line 41.
 [4])
 \tf@toc=\write4
 \openout4 = `lifeguide.toc'.
 
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 90; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 90.
+
 [5] [6
 
 ]
@@ -1860,7 +1824,6 @@ LaTeX Font Info:    Font shape `TU/STSong(0)/m/n' will be
 . 
 . STFangsong scale = 0.9707213523154882.
 .................................................
-\g__fontspec_family_STFangsong_int=\count322
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1894,75 +1857,54 @@ LaTeX Font Info:    Font shape `TU/STSong(0)/m/n' will be
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
 LaTeX Font Info:    Font shape `TU/STFangsong(0)/m/n' will be
-(Font)              scaled to size 10.23074pt on input line 104.
+(Font)              scaled to size 10.23074pt on input line 108.
 [9]
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 133; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 141.
+
 [10]
 章 3.
+
+Underfull \vbox (badness 4416) has occurred while \output is active []
+
 [11
 
 ]
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 225; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 156.
+
 [12]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 231; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 234.
+
 [13]
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 240; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
-[14]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 248; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 234.
+
+[14]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 249.
+
 [15]
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 251; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 263.
+
 [16]
 章 4.
 
@@ -1971,254 +1913,485 @@ Underfull \vbox (badness 4416) has occurred while \output is active []
 [17
 
 ]
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 314; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
-[18]
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 318; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
-[19] [20
 
-]
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 326.
+
+[18]
+Underfull \vbox (badness 1546) has occurred while \output is active []
+
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 347.
+
+[19]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 364.
+
+[20]
 章 5.
-[21] [22
+[21
+
+] [22
 
 ]
 章 6.
+
+Underfull \vbox (badness 4416) has occurred while \output is active []
+
 [23]
-LaTeX Font Info:    Font shape `TU/STSong(0)/m/it' will be
-(Font)              scaled to size 11.63991pt on input line 341.
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 346; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
+LaTeX Font Info:    Try loading font information for U+msa on input line 382.
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 382.
+(/Users/yufree/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Missing character: There is no 工 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 作 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 起 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 薪 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 普 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 惠 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 教 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 育 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 年 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 限 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 高 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 等 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 教 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 育 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 年 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 限 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 研 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 究 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 生 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 教 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 育 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 年 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 限 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 学 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 科 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 系 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 数 in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 389.
+
 [24]
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 354; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
+LaTeX Font Info:    Font shape `TU/SongtiSC(0)/m/it' will be
+(Font)              scaled to size 11.63991pt on input line 400.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 403.
+
 [25]
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 362; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 407.
+
 [26]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 368; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 414.
+
 [27]
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 371; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 423.
+
 [28]
-章 7.
-[29
-
-]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 396; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 430.
+
+[29]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 505.
+
 [30]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 402; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 534.
+
 [31]
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 443; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
-[32]
-LaTeX Font Info:    Font shape `TU/STSong(0)/m/n' will be
-(Font)              scaled to size 8.72992pt on input line 454.
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 458; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
-[33]
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 481; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
-[34]
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 504; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
-[35]
-Underfull \vbox (badness 1546) has occurred while \output is active []
 
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 516; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 581.
+
+[32]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 625.
+
+[33]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 678.
+
+[34]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 718.
+
+[35]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 771.
+
 [36]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 815.
+
+[37]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 844.
+
+[38]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 887.
+
+[39]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 901.
+
+[40]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 945.
+
+[41]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 977.
+
+[42]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 524; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
-[37]
-Underfull \vbox (badness 1546) has occurred while \output is active []
 
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 537; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
-[38]
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 539; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
-[39] [40
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 983.
+
+[43]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1023.
+
+[44]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1055.
+
+[45]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1087.
+
+[46]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1115.
+
+[47]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1136.
+
+[48]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1147.
+
+[49]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1171.
+
+[50]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1217.
+
+[51]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1249.
+
+[52]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1273.
+
+[53]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1296.
+
+[54]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1331.
+
+[55]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1355.
+
+[56]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1385.
+
+[57]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1425.
+
+[58]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1457.
+
+[59]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1480.
+
+[60]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1503.
+
+[61]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1517.
+
+[62]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1549.
+
+[63]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1564.
+
+[64]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1589.
+
+[65]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1610.
+
+[66]
+章 7.
+
+Underfull \vbox (badness 4416) has occurred while \output is active []
+
+[67
 
 ]
-章 8.
-[41]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 562; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
-[42]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1625.
+
+[68]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1631.
+
+[69]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1649.
+
+[70]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1657.
+
+[71]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1663.
+
+[72]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1704.
+
+[73]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1713.
+
+[74]
+LaTeX Font Info:    Font shape `TU/SongtiSC(0)/m/n' will be
+(Font)              scaled to size 8.72992pt on input line 1715.
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1739.
+
+[75]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1762.
+
+[76]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1777.
+
+[77]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1783.
+
+[78]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1791.
+
+[79]
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1800.
+
+[80]
+章 8.
+[81
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1823.
+
+[82]
 
 Package bibentry Warning: You have used \nobibliography* 
 (bibentry)                without a following \bibliography.
 (bibentry)                You may not be able to run BibTeX.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 565.
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored on line 565; it cannot be used with a font that
-* wasn't selected by a fontspec command.
-*  
-*  The current font is "\TU/lmr/m/n/10 ".
-*   The requested feature is "LetterSpace=10". 
-*************************************************
-[43]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 565.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1826.
+
+Class tufte-book Warning: Proper spacing of small-caps letters has not been set
+ up.
+This message occurred on input line 1826.
+
+[83]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1826.
 (./lifeguide.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 565.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 565.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1826.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1826.
+
 Package rerunfilecheck Info: File `lifeguide.out' has not changed.
-(rerunfilecheck)             Checksum: 050292A45F014983B46BE757A2D6EC2D.
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 565.
+(rerunfilecheck)             Checksum: 56AC0F4EB9E6DCB812994252F3026116.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1826.
  ) 
 Here is how much of TeX's memory you used:
- 26038 strings out of 492970
- 514170 string characters out of 6133938
- 629275 words of memory out of 5000000
- 29669 multiletter control sequences out of 15000+600000
- 531339 words of font info for 61 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 63i,12n,127p,10447b,1016s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 26690 strings out of 494950
+ 522886 string characters out of 6177171
+ 624606 words of memory out of 5000000
+ 30186 multiletter control sequences out of 15000+600000
+ 535955 words of font info for 77 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 67i,12n,126p,728b,1016s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on lifeguide.pdf (43 pages).
+Output written on lifeguide.pdf (83 pages).
