@@ -1,4 +1,4 @@
-# 兴趣
+# 兴趣{#interest}
 
 ## 八小时生活制
 
@@ -762,126 +762,126 @@
 
 ### 常见字体
 
-#### Textura
+**Textura**
 
 - 古腾堡使用
 - 第一款字体
 - 第一套圣经现存48本 12本无缺
 - 更为流畅的威尼斯体打破了这种哥特式字体
 
-#### Helvetica
+**Helvetica**
 
 - 1957年诞生
 - 简洁 现代 无处不在
 
-#### Baskerville
+**Baskerville**
 
 - Q比较特殊
 - 活字天才
 - 夫人 MrsEave字体
 
-#### Gill sans
+**Gill sans**
 
 - 经典无衬线字
 - 设计师乱伦
 - 正文字体
 
-#### Comic Sans
+**Comic Sans**
 
 - 源于漫画
 - 类似幼圆
 - 抵制运动
 - 不像字体的字体
 
-#### Futura vs Verdana
+**Futura vs Verdana**
 
 - 宜家门
 - Verdana作者是少数靠字体发家的人
 - 德国人推出的字体
 
-#### Johnston Sans
+**Johnston Sans**
 
 - 最早现代无衬线字体
 - 出现在中地铁
 
-#### Frutiger
+**Frutiger**
 
 - 更有人味的字体
 - Univers续作
 
-#### Gotham
+**Gotham**
 
 - 影响选举
 - 质朴稳定
 
-#### Arial
+**Arial**
 
 - 仿 Helvetica
 - 更圆滑
 - 来自微软
 - 因疑似抄袭而受质疑与鄙视
 
-#### Sabon
+**Sabon**
 
 - 书籍最常用
 - 来自德国
 
-#### Vendome
+**Vendome**
 
 - 触觉 雕塑感
 - 华丽
 - 来自法国
 
-#### Doves
+**Doves**
 
 - 用来印刷圣经
 - 失传 扔到泰晤士河了
 
 ### 最差字体
 
-#### Ecofont
+**Ecofont**
 
 - 省墨
 - 网眼
 - 不影响识别
 
-#### Souvenir
+**Souvenir**
 
 - 设计师最恨
 - 真男人不用
 - 1914年制作
 
-#### Gill Sans Light Shadowed
+**Gill Sans Light Shadowed**
 
 - 让人头昏眼花
 - 三维效果
 - 埃舍尔版画
 
-#### Brush Script
+**Brush Script**
 
 - 仿手写
 - 单调 非企业风格
 
-#### papyrus
+**papyrus**
 
 - 卡梅隆在阿凡达里使用
 - 滥用
 - 贺卡专用
 - 埃及纸草书
 
-#### Neuland inline
+**Neuland inline**
 
 - 非洲风格
 - 粗厚有棱角
 - 主题公园体
 
-#### Ransom Note
+**Ransom Note**
 
 - 拼凑风格
 - 喜剧风格
 - 胶水恐吓感
 
-#### 2012奥运会字体
+**2012奥运会字体**
 
 - 做工粗劣
 - 街头涂鸦

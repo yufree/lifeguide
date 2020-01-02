@@ -1,12 +1,13 @@
 bookdown::gitbook:
   config:
     css: toc.css
+    md_extensions: +ascii_identifiers
     toc:
       before: |
-        <li><a href="./">数据分析残卷</a></li>
+        <li><a href="./">自然生活的数学原理</a></li>
       after: |
-        <li><a href="https://github.com/yufree/datadown" target="blank">Github Repo</a></li>
-    download: ["pdf","epub", "mobi"]
+        <li><a href="https://github.com/yufree/lifeguide" target="blank">Github Repo</a></li>
+    download: ["pdf","epub"]
     edit:
       link: https://github.com/yufree/lifeguide/edit/master/%s
     sharing:
