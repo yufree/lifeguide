@@ -20,4 +20,3 @@ jobs:
         uses: actions-go/push@master
         with:
           commit-message: '[Auto] update github online book preview'
-          remote: origin
