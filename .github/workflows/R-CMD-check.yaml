@@ -16,7 +16,8 @@ jobs:
         run: Rscript -e 'install.packages(c("rmarkdown","bookdown"))'
       - name: Render Book
         run: Rscript -e 'bookdown::render_book("index.Rmd")'
-      - uses: actions/upload-artifact@v1
+      - name: Update website
+        uses: actions-go/push@master
         with:
-          name: docs
-          path: docs/
+          commit-message: '[Auto] update github online book preview'
+          remote: origin
