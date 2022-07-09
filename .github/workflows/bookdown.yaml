@@ -6,7 +6,6 @@ name: renderbook
 
 jobs:
   bookdown:
-    name: Render-Book
     runs-on: macOS-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
@@ -24,7 +23,7 @@ jobs:
         with:
           commit-message: '[Auto] update github online book preview'
           remote: origin
-    - name: Deploy book to bookdown.org
+      - name: Deploy book to bookdown.org
         if: github.event_name == 'push'
         env:
           CONNECT_API_KEY: ${{ secrets.RSC_BOOKDOWN_ORG_TOKEN }}
