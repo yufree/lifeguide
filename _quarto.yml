@@ -3,9 +3,14 @@ project:
   output-dir: _book
 format:
   html:
-    theme: cosmo
+    theme: journal
     code-copy: true
-  pdf: default
+  pdf:
+    include-in-header:
+        - text: |
+            \usepackage{booktabs}
+            \usepackage{ctex}
+            \renewcommand{\chaptername}{章}
 book:
   title: "自然生活的数学原理"
   author: "yufree"
@@ -21,6 +26,7 @@ book:
   site-url: https://yufree.github.io/lifeguide/
   repo-url: https://github.com/yufree/lifeguide
   repo-actions: [edit,issue]
+  downloads: [pdf]
 
   chapters:
     - index.qmd
