@@ -1,0 +1,32 @@
+project:
+  type: book
+  output-dir: _book
+format:
+  html:
+    theme: cosmo
+    code-copy: true
+  pdf: default
+book:
+  title: "自然生活的数学原理"
+  author: "yufree"
+  date: last-modified
+  language: "zh"
+  description: "又名《新毕达哥拉斯主义》"
+
+  page-footer:
+    left: |
+      <a href="./">自然生活的数学原理</a>
+    right: |
+      "本书由<a href="https://quarto.org/">Quarto</a>生成."
+  site-url: https://yufree.github.io/lifeguide/
+  repo-url: https://github.com/yufree/lifeguide
+  repo-actions: [edit,issue]
+
+  chapters:
+    - index.Rmd
+    - 01-cloth.Rmd
+    - 02-food.Rmd
+    - 03-rental.Rmd
+    - 04-traffic.Rmd
+    - 05-financial.Rmd
+    - 06-interest.Rmd

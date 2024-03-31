@@ -1,4 +1,0 @@
-book_filename: "lifeguide"
-chapter_name: ["第", "章"]
-output_dir: docs
-delete_merged_file: true
