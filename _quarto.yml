@@ -23,10 +23,10 @@ book:
   repo-actions: [edit,issue]
 
   chapters:
-    - index.Rmd
-    - 01-cloth.Rmd
-    - 02-food.Rmd
-    - 03-rental.Rmd
-    - 04-traffic.Rmd
-    - 05-financial.Rmd
-    - 06-interest.Rmd
+    - index.qmd
+    - 01-cloth.qmd
+    - 02-food.qmd
+    - 03-rental.qmd
+    - 04-traffic.qmd
+    - 05-financial.qmd
+    - 06-interest.qmd
