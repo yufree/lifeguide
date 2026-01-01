@@ -4,4 +4,6 @@
 
 在线预览：https://yufree.github.io/lifeguide/
 
-Bookdown：https://bookdown.org/yufree/lifeguide/
+~~Bookdown：https://bookdown.org/yufree/lifeguide/~~
+
+rsconnect: <https://yufree-lifeguide.share.connect.posit.cloud/>
