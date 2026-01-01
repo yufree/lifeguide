@@ -1176,7 +1176,7 @@
 
 现在有了云账号，更新硬件后迁移软件环境已经很容易了，但折腾软件的心情也不多了，很多就直接用系统自带的。不过鉴于畏惧互联网大公司对隐私的滥用，也会做些可能没啥用的小众选择。现在大部分原来需要单独装软件的要么用在线版，要么直接手机上应用解决，电脑基本就是写东西处理数据用，纯生产环境。
 
-浏览器用火狐，日常写东西用 typora 或 sublime text，编程用R，IDE用 RStudio，网络分析用cytoscape，文献管理 zotero，密码管理1p，虚拟容器 docker，FTP 用 filezilla，远程桌面用 microsoft remote desktop，开会zoom，无线网用 boingo wifinder，rss用reeder，其余的都是系统自带。
+浏览器用火狐，日常写东西用 typora 或 sublime text，编程用R，IDE用 RStudio，文献管理 zotero，密码管理1p，虚拟容器 docker，FTP 用 filezilla，远程桌面用 microsoft remote desktop，开会zoom，rss用Folo，其余的都是系统自带。
 
 ## 宠物筛选法
 
