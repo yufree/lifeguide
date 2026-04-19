@@ -32,7 +32,7 @@ book:
     - index.qmd
     - 01-cloth.qmd
     - 02-food.qmd
-    - 03-rental.qmd
-    - 04-traffic.qmd
+    - 03-house.qmd
+    - 04-travel.qmd
     - 05-financial.qmd
     - 06-interest.qmd
